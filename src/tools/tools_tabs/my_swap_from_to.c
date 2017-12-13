@@ -1,13 +1,3 @@
-/*
-** my_swap_from_to.c for my_swap_from_to in /home/oscar/CPE_2015_Lemin
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Mon Apr  4 18:37:49 2016 Oscar Stefanini
-** Last update Wed Apr  6 11:46:02 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "tools_tabs.h"
 #include "tools.h"

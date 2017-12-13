@@ -1,13 +1,3 @@
-/*
-** is_a_valid_char_regex.c for is_a_valid_char_regex in /home/oscar/is_a_valid_char_regex
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Sat Mar 26 16:41:01 2016 Oscar Stefanini
-** Last update Sat Mar 26 17:53:55 2016 Oscar Stefanini
-*/
-
 char	is_a_valid_char_limit(char c, char *limit)
 {
   if (limit[0] >= limit[1])

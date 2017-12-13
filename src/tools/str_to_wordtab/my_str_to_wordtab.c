@@ -1,13 +1,3 @@
-/*
-** my_str_to_wordtab.c for my_str_to_wordtab in /home/oscar/minishell
-**
-** Made by oscar stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Sun Dec 20 17:22:15 2015 oscar stefanini
-** Last update Sun Apr 24 15:33:59 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 
 int	how_words(char *str)

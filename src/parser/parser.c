@@ -1,13 +1,3 @@
-/*
-** parser.c for lemin in /home/boitea_r
-** 
-** Made by Ronan Boiteau
-** Login   <boitea_r@epitech.net>
-** 
-** Started on  Thu Apr 14 16:33:48 2016 Ronan Boiteau
-** Last update Mon Apr 25 19:32:05 2016 Ronan Boiteau
-*/
-
 #include <stdlib.h>
 #include <unistd.h>
 #include "get_next_line.h"

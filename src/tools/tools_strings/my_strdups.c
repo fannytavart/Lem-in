@@ -1,13 +1,3 @@
-/*
-** my_strdups.c for my_strdups in /home/oscar/on_restart_minishell/srcs/tools
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Tue Mar 29 17:57:09 2016 Oscar Stefanini
-** Last update Sun Apr 24 15:53:50 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "tools_strings.h"
 

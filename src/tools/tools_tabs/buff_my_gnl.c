@@ -1,13 +1,3 @@
-/*
-** buff_my_gnl.c for buff_my_gnl in /home/oscar/CPE_2015_Lemin
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Mon Apr 11 14:00:13 2016 Oscar Stefanini
-** Last update Mon Apr 11 22:17:02 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "tools_tabs.h"
 #include "get_next_line.h"

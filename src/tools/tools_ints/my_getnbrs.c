@@ -1,13 +1,3 @@
-/*
-** my_getnbr.c for my_getnbr in /home/oscar/PSU_2015_minishell2/srcs/tools
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Fri Apr  8 20:58:14 2016 Oscar Stefanini
-** Last update Sun Apr 24 18:03:49 2016 Ronan Boiteau
-*/
-
 #include <limits.h>
 
 static int	my_power(const int nbr, int power)

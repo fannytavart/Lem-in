@@ -1,13 +1,3 @@
-/*
-** ways.c for  in /home/badia_r/git_pls/yolo
-**
-** Made by Raphael Badia
-** Login   <badia_r@epitech.net>
-**
-** Started on  Sun Apr 24 14:33:28 2016 Raphael Badia
-** Last update Mon Apr 25 20:16:43 2016 Ronan Boiteau
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

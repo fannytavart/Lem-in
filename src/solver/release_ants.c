@@ -1,13 +1,3 @@
-/*
-** release_ants.c for  in /home/badia_r/git_pls/yolo
-**
-** Made by Raphael Badia
-** Login   <badia_r@epitech.net>
-**
-** Started on  Sun Apr 24 15:32:25 2016 Raphael Badia
-** Last update Mon Apr 25 21:25:05 2016 Ronan Boiteau
-*/
-
 #include <stdlib.h>
 #include <unistd.h>
 #include "fourmiz.h"

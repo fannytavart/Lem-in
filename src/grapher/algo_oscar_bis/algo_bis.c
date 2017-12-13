@@ -1,13 +1,3 @@
-/*
-** algo_bis.c for algo_bis in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Sat Apr 16 17:18:10 2016 Oscar Stefanini
-** Last update Mon Apr 25 19:52:30 2016 Oscar Stefanini
-*/
-
 #include <unistd.h>
 #include <stdlib.h>
 #include "fourmiz.h"

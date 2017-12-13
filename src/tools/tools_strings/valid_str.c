@@ -1,13 +1,3 @@
-/*
-** valid_str.c for valid_str in /home/oscar/on_restart_minishell/srcs/tools
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Tue Mar 29 18:22:31 2016 Oscar Stefanini
-** Last update Mon Apr 11 18:08:23 2016 Oscar Stefanini
-*/
-
 #include "tools_chars.h"
 
 char	valid_string(char *str, char *valid_chars)

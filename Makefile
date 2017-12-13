@@ -1,13 +1,3 @@
-##
-## Makefile for Makefile in /home/oscar/on_restart_minishell
-## 
-## Made by Oscar Stefanini
-## Login   <stefan_o@epitech.net>
-## 
-## Started on  Mon Mar 21 17:29:51 2016 Oscar Stefanini
-## Last update Mon Apr 25 19:54:21 2016 Ronan Boiteau
-##
-
 NAME		= lem_in
 
 CC		= gcc

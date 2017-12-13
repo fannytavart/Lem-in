@@ -1,13 +1,3 @@
-/*
-** my_put_tabchar.c for my_put_tabchar in /home/oscar/on_restart_minishell/srcs/tools
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Tue Mar 29 18:49:19 2016 Oscar Stefanini
-** Last update Fri Apr  8 22:25:21 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include <unistd.h>
 #include "tools.h"

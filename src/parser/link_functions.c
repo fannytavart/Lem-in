@@ -1,13 +1,3 @@
-/*
-** link_functions.c for Lemin in /home/tavart_f/rendu/CPE2/CPE_2015_Lemin/parser
-** 
-** Made by Fanny Tavart
-** Login   <tavart_f@epitech.net>
-** 
-** Started on  Mon Apr 18 17:54:13 2016 Fanny Tavart
-** Last update Mon Apr 25 19:57:38 2016 Ronan Boiteau
-*/
-
 #include <stdlib.h>
 #include "tools_strings.h"
 #include "fourmiz.h"

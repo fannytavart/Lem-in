@@ -1,13 +1,3 @@
-/*
-** my_strcmps.c for my_strcmps in /home/oscar/on_restart_minishell/srcs/tools
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Tue Mar 29 18:08:52 2016 Oscar Stefanini
-** Last update Sun Apr 24 22:18:52 2016 Fanny Tavart
-*/
-
 #include <stdlib.h>
 #include "tools.h"
 

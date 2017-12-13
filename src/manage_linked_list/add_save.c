@@ -1,13 +1,3 @@
-/*
-** add_save.c for add_save in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Fri Apr 15 22:33:27 2016 Oscar Stefanini
-** Last update Sun Apr 24 21:52:29 2016 Fanny Tavart
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

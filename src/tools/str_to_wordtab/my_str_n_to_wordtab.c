@@ -1,13 +1,3 @@
-/*
-** my_str_n_to_wordtab.c for my_str_n_to_wordtab in /home/oscar/on_restart_minishell
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Wed Mar 23 22:19:03 2016 Oscar Stefanini
-** Last update Sun Apr 24 15:33:06 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "tools.h"
 

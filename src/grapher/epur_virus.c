@@ -1,13 +1,3 @@
-/*
-** epur_virus.c for epur_virus in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Wed Apr 20 18:35:11 2016 Oscar Stefanini
-** Last update Sun Apr 24 21:35:47 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

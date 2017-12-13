@@ -1,13 +1,3 @@
-/*
-** epurstr.c for epurstr in /home/boitea_r
-** 
-** Made by Ronan Boiteau
-** Login   <boitea_r@epitech.net>
-** 
-** Started on  Sun Apr 24 22:03:13 2016 Ronan Boiteau
-** Last update Mon Apr 25 19:46:26 2016 Ronan Boiteau
-*/
-
 #include <stdlib.h>
 
 static unsigned int	get_clean_str_size(char *str)

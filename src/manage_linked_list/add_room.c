@@ -1,13 +1,3 @@
-/*
-** put_in_queue_rooms.c for put_in_queue_rooms in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Wed Apr 13 13:59:10 2016 Oscar Stefanini
-** Last update Sun Apr 24 16:25:42 2016 Ronan Boiteau
-*/
-
 #include <stdlib.h>
 #include "tools.h"
 #include "fourmiz.h"

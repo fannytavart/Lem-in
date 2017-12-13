@@ -1,13 +1,3 @@
-/*
-** initialize_virus.c for initialize_virus in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Sat Apr 16 19:23:04 2016 Oscar Stefanini
-** Last update Sat Apr 23 18:53:46 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

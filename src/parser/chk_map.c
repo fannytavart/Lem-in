@@ -1,13 +1,3 @@
-/*
-** print_map.c for lemin in /home/boitea_r
-** 
-** Made by Ronan Boiteau
-** Login   <boitea_r@epitech.net>
-** 
-** Started on  Thu Apr 21 12:50:17 2016 Ronan Boiteau
-** Last update Sun Apr 24 21:56:26 2016 Ronan Boiteau
-*/
-
 #include <unistd.h>
 #include "tools_ints.h"
 #include "tools_strings.h"

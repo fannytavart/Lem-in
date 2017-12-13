@@ -1,13 +1,3 @@
-/*
-** put_in_queue_link.c for put_in_queue_link in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Wed Apr 13 15:42:46 2016 Oscar Stefanini
-** Last update Mon Apr 25 14:25:36 2016 Ronan Boiteau
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 #include "tools_strings.h"

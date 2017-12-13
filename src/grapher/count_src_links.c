@@ -1,13 +1,3 @@
-/*
-** count_start_links.c for count_start_links in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Wed Apr 13 22:00:10 2016 Oscar Stefanini
-** Last update Mon Apr 25 14:41:08 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

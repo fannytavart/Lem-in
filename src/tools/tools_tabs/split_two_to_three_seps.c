@@ -1,13 +1,3 @@
-/*
-** split_two_to_three_seps.c for split_two_to_three_seps.c in /home/oscar/on_restart_minishell/srcs/tools/tools_tabs
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Thu Mar 31 19:43:16 2016 Oscar Stefanini
-** Last update Sun Apr 10 14:24:08 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "tools.h"
 #include "tools_tabs.h"

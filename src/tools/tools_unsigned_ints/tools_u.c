@@ -1,13 +1,3 @@
-/*
-** classico.c for classico in /home/oscar/CPE_2015_Allum1
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Tue Feb  9 22:03:28 2016 Oscar Stefanini
-** Last update Fri Feb 19 15:16:58 2016 Oscar Stefanini
-*/
-
 #include <unistd.h>
 #include "tools.h"
 

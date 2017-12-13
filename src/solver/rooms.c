@@ -1,13 +1,3 @@
-/*
-** rooms.c for  in /home/badia_r/git_pls/yolo
-**
-** Made by Raphael Badia
-** Login   <badia_r@epitech.net>
-**
-** Started on  Sun Apr 24 14:45:56 2016 Raphael Badia
-** Last update Sun Apr 24 21:10:37 2016 Raphael Badia
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

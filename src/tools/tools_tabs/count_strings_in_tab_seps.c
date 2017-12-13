@@ -1,13 +1,3 @@
-/*
-** count_strings_in_tab_seps.c for count_strings_in_tab_seps in /home/oscar/on_restart_minishell/srcs/tools/tools_tabs
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Thu Mar 31 19:55:18 2016 Oscar Stefanini
-** Last update Mon Apr 11 16:42:30 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "tools.h"
 #include "tools_tabs.h"

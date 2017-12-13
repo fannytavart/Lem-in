@@ -1,13 +1,3 @@
-/*
-** cmp_between_two_strings.c for cmp_between_two_strings in /home/oscar/on_restart_minishell
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Thu Mar 31 14:22:40 2016 Oscar Stefanini
-** Last update Mon Apr 11 18:08:41 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "tools_strings.h"
 #include "tools_tabs.h"

@@ -1,13 +1,3 @@
-/*
-** initialize_dijkstra.c for initialize_dijkstra in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Wed Apr 20 22:22:18 2016 Oscar Stefanini
-** Last update Fri Apr 22 16:20:25 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

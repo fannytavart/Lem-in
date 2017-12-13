@@ -1,13 +1,3 @@
-/*
-** get_ants.c for lem_in in /home/boitea_r
-** 
-** Made by Ronan Boiteau
-** Login   <boitea_r@epitech.net>
-** 
-** Started on  Mon Apr 25 17:15:20 2016 Ronan Boiteau
-** Last update Mon Apr 25 20:18:50 2016 Ronan Boiteau
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 #include "get_next_line.h"

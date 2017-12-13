@@ -1,13 +1,3 @@
-/*
-** format_subs_str.c for format_subs_str in /home/oscar/subs_strs
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Tue Apr 12 17:27:40 2016 Oscar Stefanini
-** Last update Tue Apr 12 23:20:21 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "tools_strings.h"
 #include "tools_chars.h"

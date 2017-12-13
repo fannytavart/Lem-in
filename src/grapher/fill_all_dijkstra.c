@@ -1,13 +1,3 @@
-/*
-** fill_all_dijkstra.c for fill_all_dijkstra in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Thu Apr 21 12:02:06 2016 Oscar Stefanini
-** Last update Sun Apr 24 23:36:54 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

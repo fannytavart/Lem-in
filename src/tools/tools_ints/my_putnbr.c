@@ -1,13 +1,3 @@
-/*
-** my_putnbr.c for my_putnbr in /home/oscar/on_restart_minishell/srcs/tools
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Tue Mar 29 18:33:13 2016 Oscar Stefanini
-** Last update Tue Mar 29 18:53:08 2016 Oscar Stefanini
-*/
-
 #include <unistd.h>
 
 void	my_putnbr(int nbr)

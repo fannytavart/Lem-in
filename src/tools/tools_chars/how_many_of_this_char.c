@@ -1,13 +1,3 @@
-/*
-** how_many_of_this_char.c for how_many_of_this_char in /home/oscar/on_restart_minishell/srcs/tools
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Tue Mar 29 17:50:27 2016 Oscar Stefanini
-** Last update Thu Mar 31 13:07:00 2016 Oscar Stefanini
-*/
-
 int	how_many_of_this_char(char *str, char c)
 {
   int	i;

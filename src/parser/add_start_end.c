@@ -1,13 +1,3 @@
-/*
-** add_start_end.c for Lemin in /home/tavart_f/rendu/CPE2/CPE_2015_Lemin/parser
-** 
-** Made by Fanny Tavart
-** Login   <tavart_f@epitech.net>
-** 
-** Started on  Tue Apr 19 13:21:12 2016 Fanny Tavart
-** Last update Sun Apr 24 21:55:39 2016 Ronan Boiteau
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

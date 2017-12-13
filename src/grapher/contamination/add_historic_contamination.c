@@ -1,13 +1,3 @@
-/*
-** add_historic_contamination.c for add_historic_contamination in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Sat Apr 16 22:20:54 2016 Oscar Stefanini
-** Last update Tue Apr 19 16:42:53 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

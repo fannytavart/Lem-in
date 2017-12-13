@@ -1,13 +1,3 @@
-/*
-** ways_sorting.c for  in /home/badia_r/git_pls/yolo
-**
-** Made by Raphael Badia
-** Login   <badia_r@epitech.net>
-**
-** Started on  Sun Apr 24 14:38:40 2016 Raphael Badia
-** Last update Sun Apr 24 18:29:42 2016 Fanny Tavart
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

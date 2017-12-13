@@ -1,13 +1,3 @@
-/*
-** no_solution.c for no_solution in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Wed Apr 20 16:46:22 2016 Oscar Stefanini
-** Last update Wed Apr 20 16:52:18 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

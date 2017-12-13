@@ -1,13 +1,3 @@
-/*
-** test_occurence_char.c for test_occurence_char in /home/oscar/on_restart_minishell/srcs/tools
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Tue Mar 29 17:24:02 2016 Oscar Stefanini
-** Last update Mon Apr 11 23:21:18 2016 Oscar Stefanini
-*/
-
 char	test_occurence_char(char *str, int nbr_oc_expected, char c)
 {
   int	i;

@@ -1,13 +1,3 @@
-/*
-** init_ants.c for  in /home/badia_r/git_pls/yolo
-**
-** Made by Raphael Badia
-** Login   <badia_r@epitech.net>
-**
-** Started on  Sun Apr 24 14:42:28 2016 Raphael Badia
-** Last update Sun Apr 24 18:28:46 2016 Fanny Tavart
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

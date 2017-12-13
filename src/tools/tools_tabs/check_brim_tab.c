@@ -1,13 +1,3 @@
-/*
-** check_brim_tab.c for check_brim_tab in /home/oscar/on_restart_minishell
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Tue Mar 29 22:29:31 2016 Oscar Stefanini
-** Last update Mon Apr 11 18:10:22 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "tools_strings.h"
 

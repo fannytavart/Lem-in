@@ -1,13 +1,3 @@
-/*
-** room_functions.c for Lemin in /home/tavart_f/rendu/CPE2/CPE_2015_Lemin/parser
-**
-** Made by Fanny Tavart
-** Login   <tavart_f@epitech.net>
-**
-** Started on  Mon Apr 18 17:44:49 2016 Fanny Tavart
-** Last update Sun Apr 24 23:24:34 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "tools.h"
 #include "tools_ints.h"

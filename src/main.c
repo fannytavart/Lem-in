@@ -1,13 +1,3 @@
-/*
-** main.c for lemin in /home/boitea_r
-** 
-** Made by Ronan Boiteau
-** Login   <boitea_r@epitech.net>
-** 
-** Started on  Sun Apr 24 16:32:17 2016 Ronan Boiteau
-** Last update Sun Apr 24 23:30:04 2016 Ronan Boiteau
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 #include "parser.h"

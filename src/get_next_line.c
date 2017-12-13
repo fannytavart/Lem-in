@@ -1,13 +1,3 @@
-/*
-** get_next_line.c for get_next_line in /home/boitea_r
-** 
-** Made by Ronan Boiteau
-** Login   <boitea_r@epitech.net>
-** 
-** Started on  Mon Dec 21 03:02:16 2015 Ronan Boiteau
-** Last update Sun Apr 24 15:40:32 2016 Ronan Boiteau
-*/
-
 #include <stdlib.h>
 #include <unistd.h>
 #include "get_next_line.h"

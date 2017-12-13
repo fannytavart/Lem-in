@@ -1,13 +1,3 @@
-/*
-** char_expected_is_here.c for char_expected_is_here in /home/oscar/on_restart_minishell/srcs/tools
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Tue Mar 29 17:53:37 2016 Oscar Stefanini
-** Last update Tue Mar 29 17:55:24 2016 Oscar Stefanini
-*/
-
 char	char_expected_is_here(char *str, char expected, int pos)
 {
   int	i;

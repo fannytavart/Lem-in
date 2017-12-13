@@ -1,13 +1,3 @@
-/*
-** rollback_contamination.c for rollback_contamination in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Sun Apr 17 12:30:38 2016 Oscar Stefanini
-** Last update Sun Apr 24 23:31:58 2016 Ronan Boiteau
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

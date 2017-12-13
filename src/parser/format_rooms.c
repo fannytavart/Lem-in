@@ -1,13 +1,3 @@
-/*
-** format_rooms.c for format_rooms in /home/oscar/CPE_2015_Lemin
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Tue Apr 12 16:57:46 2016 Oscar Stefanini
-** Last update Wed Apr 20 15:40:30 2016 Ronan Boiteau
-*/
-
 #include "tools_strings.h"
 
 int	format_rooms(char *str)

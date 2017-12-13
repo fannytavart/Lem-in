@@ -1,13 +1,3 @@
-/*
-** mutate_every_virus.c for mutate_every_virus in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Sun Apr 17 00:10:51 2016 Oscar Stefanini
-** Last update Sun Apr 24 23:32:37 2016 Ronan Boiteau
-*/
-
 #include <unistd.h>
 #include <stdlib.h>
 #include "fourmiz.h"

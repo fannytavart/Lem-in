@@ -1,13 +1,3 @@
-/*
-** next_shortest_room.c for next_shortest_room in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Thu Apr 21 15:02:50 2016 Oscar Stefanini
-** Last update Sun Apr 24 18:34:29 2016 Ronan Boiteau
-*/
-
 #include <limits.h>
 #include <stdlib.h>
 #include "fourmiz.h"

@@ -1,13 +1,3 @@
-/*
-** direct_connect.c for direct_connect in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Sun Apr 24 14:44:16 2016 Oscar Stefanini
-** Last update Sun Apr 24 15:18:01 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

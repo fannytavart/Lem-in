@@ -1,13 +1,3 @@
-/*
-** my_putstr_printable.c for my_putstr_printable in /home/oscar/on_restart_minishell/srcs/tools
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Tue Mar 29 18:48:27 2016 Oscar Stefanini
-** Last update Tue Mar 29 18:48:49 2016 Oscar Stefanini
-*/
-
 #include <unistd.h>
 
 void	my_putstr_printable(char *str)

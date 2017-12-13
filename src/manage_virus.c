@@ -1,13 +1,3 @@
-/*
-** manage_virus.c for manage_virus in /home/oscar/pls/CPE_2015_Lemin
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Sun Apr 24 22:07:36 2016 Oscar Stefanini
-** Last update Sun Apr 24 22:36:16 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

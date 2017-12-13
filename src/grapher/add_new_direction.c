@@ -1,13 +1,3 @@
-/*
-** add_new_direction.c for add_new_direction in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Thu Apr 21 13:21:25 2016 Oscar Stefanini
-** Last update Fri Apr 22 13:15:02 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

@@ -1,13 +1,3 @@
-/*
-** all_nexts_are_contaminated.c for all_nexts_are_contamined in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Mon Apr 18 18:57:39 2016 Oscar Stefanini
-** Last update Sat Apr 23 21:51:04 2016 Oscar Stefanini
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

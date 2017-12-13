@@ -1,13 +1,3 @@
-/*
-** format_link.c for format_link.c in /home/oscar/CPE_2015_Lemin
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Tue Apr 12 14:43:58 2016 Oscar Stefanini
-** Last update Mon Apr 25 19:53:56 2016 Ronan Boiteau
-*/
-
 #include <unistd.h>
 #include "tools_chars.h"
 #include "tools_returns.h"

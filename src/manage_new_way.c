@@ -1,13 +1,3 @@
-/*
-** manage_new_way.c for manage_new_way in /home/oscar/pls/CPE_2015_Lemin
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Sun Apr 24 22:45:26 2016 Oscar Stefanini
-** Last update Sun Apr 24 22:21:20 2016 Fanny Tavart
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

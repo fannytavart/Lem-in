@@ -1,13 +1,3 @@
-/*
-** next_contamination.c for next_contamination in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Sun Apr 17 00:53:01 2016 Oscar Stefanini
-** Last update Sun Apr 24 23:32:04 2016 Ronan Boiteau
-*/
-
 #include <stdlib.h>
 #include "fourmiz.h"
 

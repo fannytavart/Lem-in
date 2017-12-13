@@ -1,13 +1,3 @@
-/*
-** my_tab_cpys.c for my_tab_cpys in /home/oscar/on_restart_minishell/srcs
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Fri Apr  1 16:54:31 2016 Oscar Stefanini
-** Last update Sun Apr 24 15:35:27 2016 Oscar Stefanini
-*/
-
 #include <unistd.h>
 #include <stdlib.h>
 #include "tools.h"

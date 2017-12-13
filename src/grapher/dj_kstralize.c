@@ -1,13 +1,3 @@
-/*
-** dj_kstralize.c for dj_kstralize in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Wed Apr 20 17:25:43 2016 Oscar Stefanini
-** Last update Sun Apr 24 18:33:43 2016 Ronan Boiteau
-*/
-
 #include <limits.h>
 #include <stdlib.h>
 #include "fourmiz.h"
