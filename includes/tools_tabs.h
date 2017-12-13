@@ -1,13 +1,3 @@
-/*
-** tools_tabs.h for tools_tabs in /home/oscar/on_restart_minishell/srcs/tools/tools_tabs
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Thu Mar 31 19:18:40 2016 Oscar Stefanini
-** Last update Mon Apr 25 21:33:28 2016 Ronan Boiteau
-*/
-
 #ifndef TOOLS_TABS_H_
 # define TOOLS_TABS_H_
 

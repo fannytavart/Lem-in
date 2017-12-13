@@ -1,13 +1,3 @@
-/*
-** tools.h for tools.h in /home/oscar/CPE_2015_Allum1/bonus
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Fri Feb 12 22:30:25 2016 Oscar Stefanini
-** Last update Mon Apr 25 21:23:38 2016 Ronan Boiteau
-*/
-
 #ifndef TOOLS_H_
 # define TOOLS_H_
 

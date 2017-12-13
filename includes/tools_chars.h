@@ -1,13 +1,3 @@
-/*
-** tools_chars.h for tools_chars in /home/oscar/PSU_2015_minishell2
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Wed Apr  6 22:39:52 2016 Oscar Stefanini
-** Last update Mon Apr 25 21:30:25 2016 Ronan Boiteau
-*/
-
 #ifndef TOOLS_CHARS_H_
 # define TOOLS_CHARS_H_
 

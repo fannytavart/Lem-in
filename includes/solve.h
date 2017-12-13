@@ -1,13 +1,3 @@
-/*
-** solve.h for  in /home/badia_r/git_pls/yolo
-**
-** Made by Raphael Badia
-** Login   <badia_r@epitech.net>
-**
-** Started on  Sun Apr 24 14:51:08 2016 Raphael Badia
-** Last update Mon Apr 25 21:30:01 2016 Ronan Boiteau
-*/
-
 #ifndef SOLVE_H_
 # define SOLVE_H_
 

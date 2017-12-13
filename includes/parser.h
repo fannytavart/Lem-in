@@ -1,13 +1,3 @@
-/*
-** parser.h for parser in /home/oscar/CPE_2015_Lemin/srcs/grapher
-**
-** Made by Oscar Stefanini
-** Login   <stefan_o@epitech.net>
-**
-** Started on  Tue Apr 19 22:37:23 2016 Oscar Stefanini
-** Last update Mon Apr 25 17:16:49 2016 Ronan Boiteau
-*/
-
 #ifndef PARSER_H_
 # define PARSER_H_
 

@@ -1,13 +1,3 @@
-/*
-** fourmiz.h for  in /home/badia_r/CPE_2015_Lemin
-**
-** Made by Raphael Badia
-** Login   <badia_r@epitech.net>
-**
-** Started on  Mon Apr 11 12:29:55 2016 Raphael Badia
-** Last update Mon Apr 25 21:33:42 2016 Ronan Boiteau
-*/
-
 #ifndef FOURMIZ_H_
 # define FOURMIZ_H_
 
