@@ -9,7 +9,7 @@ if (scalar @ARGV < 3)
     exit -1;
 }
 
-pmy $i = 0;
+my $i = 0;
 my $j = 0;
 
 my $size = shift @ARGV;
