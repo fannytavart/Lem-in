@@ -5,11 +5,11 @@ use strict;
 if (scalar @ARGV < 3)
 {
 
-    print "Usage : gmin.pl SIZE DENSITY NB_OF_ANTS\nWhere size is the number of rooms and density the probability of connexions between rooms\n";
+    print "Usage : $0 [SIZE] [DENSITY] [NB_ANTS]\nWhere [SIZE] is the number of rooms, [DENSITY] the probability of connections between rooms & [NB_ANTS] the number of ants.\n";
     exit -1;
 }
 
-my $i = 0;
+pmy $i = 0;
 my $j = 0;
 
 my $size = shift @ARGV;
